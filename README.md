@@ -2,7 +2,7 @@
 
 ## About Me 
 
-I am Jawad Chughtai, a backend engineer primarily but also getting up to speeds with front-end technologies. I've got 3+ years of industry experience. I love to work on non-trivial problems.
+I am Jawad Chughtai, a backend engineer primarily but also getting up to speeds with front-end technologies. I've got 5+ years of industry experience. I love to work on non-trivial problems.
 
 ## Languages
 ![python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=3776AB)
